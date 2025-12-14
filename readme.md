@@ -2,7 +2,6 @@
 # is_badge
 
 [![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
 
 Check if `url` is a badge.
 
