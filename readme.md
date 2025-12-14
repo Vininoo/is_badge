@@ -1,8 +1,6 @@
 
 # is_badge
 
-[![Build][build-badge]][build]
-
 Check if `url` is a badge.
 
 ## Contents
