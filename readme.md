@@ -49,6 +49,7 @@ This is a tiny package that checks if a given url points to a badge.
 
 You can use this package for example to filter out badges.
 
+
 ## Install
 
 This package is [ESM only][esm].
