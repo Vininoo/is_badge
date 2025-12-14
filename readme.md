@@ -36,6 +36,7 @@ Check if `url` is a badge.
 
 
 
+
 ## What is this?
 
 This is a tiny package that checks if a given url points to a badge.
