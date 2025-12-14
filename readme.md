@@ -28,7 +28,6 @@ Check if `url` is a badge.
 *   [Compatibility](#compatibility)
 *   [Contribute](#contribute)
 *   [Security](#security)
-*   [License](#license)
 
 ## What is this?
 
