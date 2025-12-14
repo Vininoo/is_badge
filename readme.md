@@ -12,6 +12,7 @@
 Check if `url` is a badge.
 
 
+
 ## Contents
 
 *   [What is this?](#what-is-this)
