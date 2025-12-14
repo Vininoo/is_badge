@@ -41,6 +41,7 @@ Check if `url` is a badge.
 
 
 
+
 This is a tiny package that checks if a given url points to a badge.
 
 ## When should I use this?
