@@ -2,6 +2,7 @@
 
 
 
+
 # is_badge
 
 Check if `url` is a badge.
