@@ -7,6 +7,7 @@
 
 
 
+
 Check if `url` is a badge.
 
 ## Contents
